@@ -1,6 +1,6 @@
 # future-plan
 ### ChatBot via Dialogflow
-* knowledge base creation, eg. 
+* knowledge base creation, eg. delivery KB, product KB, ...
 ```
 by 蔡祐彬
 個人建議:業務部同仁.可以把有送過沙發,大樓/公寓.電梯或樓梯數據建檔.
