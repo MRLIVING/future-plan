@@ -1,4 +1,5 @@
 # future-plan
+
 ### ChatBot via Dialogflow
 * knowledge base creation, eg. delivery KB, product KB, ...
 ```
@@ -9,6 +10,9 @@ by 蔡祐彬
 出現比較的異常數據,應該要再三確認.
 因為數據不對,也會影響業績,例如:原本客人想要3人沙發.只能改2人沙發等等..
 ```
+
+### GA to Bigquery
+* [Stream raw hit-level Google Analytics data into BigQuery](https://github.com/lnklnklnk/ga-bq)
 
 ### AI based interior design
 * [ArchiGAN: a Generative Stack for Apartment Building Design](https://devblogs.nvidia.com/archigan-generative-stack-apartment-building-design/)
