@@ -19,7 +19,7 @@ by 蔡祐彬
 
 ### Image search 
 * take a photograph after delivery/setup of a furniture
-* search delivery man by image search from unsatisfied customer post
+* search the delivery man for more information by image search from the unsatisfied customer post, 20200806
 
 ### AI based interior design
 * [ArchiGAN: a Generative Stack for Apartment Building Design](https://devblogs.nvidia.com/archigan-generative-stack-apartment-building-design/)
