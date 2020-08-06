@@ -17,6 +17,10 @@ by 蔡祐彬
 ### GA to Bigquery
 * [Stream raw hit-level Google Analytics data into BigQuery](https://github.com/lnklnklnk/ga-bq)
 
+### Image search 
+* take a photograph after delivery/setup of a furniture
+* search delivery man by image search from unsatisfied customer post
+
 ### AI based interior design
 * [ArchiGAN: a Generative Stack for Apartment Building Design](https://devblogs.nvidia.com/archigan-generative-stack-apartment-building-design/)
 * [AI & Architecture](https://towardsdatascience.com/ai-architecture-f9d78c6958e0)
