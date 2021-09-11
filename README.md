@@ -3,6 +3,7 @@
 ### Product AR browsing
 * [Magento 2 Augmented Reality (WebAR) Extension](https://store.webkul.com/magento2-webar-product-image.html)
 * [Augmented reality for the web](https://developers.google.com/web/updates/2018/06/ar-for-the-web)
+  * [Google Play Services for AR](https://play.google.com/store/apps/details?id=com.google.ar.core&e=-EnableAppDetailsPageRedesign)
 
 ### Google reviews mining
 * apply [Cloud Natural Language](https://cloud.google.com/natural-language#section-1)
