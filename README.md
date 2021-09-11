@@ -3,7 +3,7 @@
 ### Product AR browsing
 * [Magento 2 Augmented Reality (WebAR) Extension](https://store.webkul.com/magento2-webar-product-image.html)
 
-### google reviews mining
+### Google reviews mining
 * apply [Cloud Natural Language](https://cloud.google.com/natural-language#section-1)
 
 ### Knowledge base & ChatBot
