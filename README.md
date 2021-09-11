@@ -6,7 +6,8 @@
 ### google reviews mining
 * apply [Cloud Natural Language](https://cloud.google.com/natural-language#section-1)
 
-### ChatBot via Dialogflow
+### Knowledge base & ChatBot
+* [Dialogflow](https://cloud.google.com/dialogflow/docs)
 * knowledge base creation, eg. delivery KB, product KB, ...
 ```
 by 蔡祐彬
