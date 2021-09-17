@@ -27,7 +27,11 @@ by 蔡祐彬
 * take a photograph after delivery/setup of a furniture
 * search the delivery man for more information by image search from the unsatisfied customer post, 20200806
 
-### AI based interior design
+## AI based Assistants
+### Content gentrator
+* [BAAI-WuDao](https://github.com/BAAI-WuDao/Code)
+
+### Interior design
 * [ArchiGAN: a Generative Stack for Apartment Building Design](https://devblogs.nvidia.com/archigan-generative-stack-apartment-building-design/)
 * [AI & Architecture](https://towardsdatascience.com/ai-architecture-f9d78c6958e0)
 * [一鍵設計戶型圖：哈佛學霸造出ArchiGAN](https://kknews.cc/zh-tw/design/y3pom5b.html)
